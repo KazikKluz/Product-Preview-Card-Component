@@ -38,6 +38,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.kazikkluz.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KazikKluz)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [www.kazikkluz.com](https://www.kazikkluz.com)
+- Frontend Mentor - [Kazik Kluz](https://www.frontendmentor.io/profile/KazikKluz)
+- Twitter - [@yourusername](https://www.twitter.com/Kazik_Kluz)
