@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kazikkluz.github.io/Product-Preview-Card-Component/](https://kazikkluz.github.io/Product-Preview-Card-Component/)
 
 ### Built with
 
